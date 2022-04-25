@@ -12,11 +12,12 @@ body{
     width: 100%;
     margin: auto;
     margin-top: 1rem;
+    border : 2.5px solid rgb(49, 47, 98);
 }
 
 .card .title{
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 38px;
     opacity: 0.95;
     padding: 1rem 2rem;
