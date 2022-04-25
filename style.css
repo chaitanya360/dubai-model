@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+.card{
+    background-color: rgb(45, 42, 42);;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    color: white;
+    margin: 1rem 2rem;
+    border-radius: 5px;
+}
+
+.card .title{
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 38px;
+    opacity: 0.95;
+    padding: 1rem 2rem;
+}
+
+.card .desc{
+    padding: 1rem;
+}
