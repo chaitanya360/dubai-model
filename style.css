@@ -7,13 +7,16 @@ body{
     font-family: 'Lato', sans-serif;
     font-style: normal;
     color: white;
-    margin: 1rem 2rem;
     border-radius: 5px;
+    max-width: 1600px;
+    width: 100%;
+    margin: auto;
+    margin-top: 1rem;
 }
 
 .card .title{
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 38px;
     opacity: 0.95;
     padding: 1rem 2rem;
@@ -21,4 +24,8 @@ body{
 
 .card .desc{
     padding: 1rem;
+}
+
+.card .model{
+    background-color: rgba(255,255,255,0.2);
 }
